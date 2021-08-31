@@ -1,0 +1,1 @@
+Ejemplo de un patrón DAO que inserta y extrae pizzas.
